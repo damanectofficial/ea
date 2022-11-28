@@ -10,7 +10,7 @@ global.mods = ['6283872273467']   // isi jika perlu
 global.prems = ['6283872273467']  // isi jika perlu
 
 //Nomor Owner & payment//
-global.nameowner = 'TioXd' // isi nama kalian bebas
+global.nameowner = 'HidayatGanteng' // isi nama kalian bebas
 global.numberowner = '6281395861695' // isi ini untuk mengendalikan bot
 global.dana = '6283872273467' // isi dengan nomor dana yg kamu punya 
 global.pulsa = '6283872273467' // isi dengan nomor pulsa hp kalian
